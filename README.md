@@ -1,3 +1,11 @@
+# ss-raicangu's practice attempt at Heroku deployment (2019-09-09)
+
+See the [actual README](https://github.com/heroku/node-js-getting-started/blob/b10a4d7a20a6bbe49655769c526a2b424e0e5d0b/README.md) for the updated original contents. The content below is simply a copy of the README at one point in time (2020-03-21).
+
+---
+
+---
+
 # node-js-getting-started
 
 A barebones Node.js app using [Express 4](http://expressjs.com/).
